@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.tomee:openejb-jee:7.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomee/openejb-jee/7.0.0-SNAPSHOT/openejb-jee-7.0.0-20160511.040643-351.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomee/openejb-jee/7.0.0-SNAPSHOT/openejb-jee-7.0.0-20160511.040643-351-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomee/openejb-jee/7.0.0-SNAPSHOT/openejb-jee-7.0.0-20160511.040643-351-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

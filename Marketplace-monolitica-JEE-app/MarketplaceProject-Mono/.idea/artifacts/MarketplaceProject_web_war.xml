@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MarketplaceProject.web:war">
+    <output-path>$PROJECT_DIR$/../MarketplaceProject/MarketplaceProject.web/target</output-path>
+    <root id="archive" name="MarketplaceProject.web.war">
+      <element id="artifact" artifact-name="MarketplaceProject.web:war exploded" />
+    </root>
+  </artifact>
+</component>
